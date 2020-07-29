@@ -20,7 +20,7 @@
 Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, a GoFinances. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
 
 ## :hammer: Tecnologias
-- [React Native](https://reactnative.dev/) 
+- [ReactJS](https://pt-br.reactjs.org/) 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Axios](https://www.npmjs.com/package/axios)
 - [Styled Components](https://styled-components.com/)
